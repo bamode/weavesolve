@@ -1,0 +1,3 @@
+# Weavesolve
+
+A simple command-line utility written in Rust to solve the word ladder game [weaver](https://wordwormdormdork.com). Might be eventually expanded to download and cache a larger dictionary in order to expand beyond the 4-letter word ladder game. Feel free to fork, download, etc. Should compile with stable 2021 Rust, and the only dependent crates are [clap](https://crates.io/crates/clap) and [colored](https://crates.io/crates/colored).
